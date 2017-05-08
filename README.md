@@ -1,5 +1,7 @@
 # deep-resolve-from
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/deep-resolve-from.svg)](https://greenkeeper.io/)
+
 > Resolve the path of a module that is inside a sequence of packages
 
 <!--@shields('npm', 'travis')-->
