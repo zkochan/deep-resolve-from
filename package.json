@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Resolve the path of a module through a sequence of packages",
   "main": "index.js",
+  "typings": "index.d.ts",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "scripts": {
     "test": "tape test.js && mos t && standard",
