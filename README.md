@@ -1,6 +1,6 @@
 # deep-resolve-from
 
-> Resolve the path of a module that is inside a sequence of packages
+> Resolve the path of a module through a sequence of packages
 
 <!--@shields('npm', 'travis')-->
 [![npm version](https://img.shields.io/npm/v/deep-resolve-from.svg)](https://www.npmjs.com/package/deep-resolve-from) [![Build Status](https://img.shields.io/travis/zkochan/deep-resolve-from/master.svg)](https://travis-ci.org/zkochan/deep-resolve-from)

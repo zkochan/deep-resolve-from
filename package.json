@@ -1,7 +1,7 @@
 {
   "name": "deep-resolve-from",
   "version": "1.0.0",
-  "description": "Resolve the path of a module that is inside a sequence of packages",
+  "description": "Resolve the path of a module through a sequence of packages",
   "main": "index.js",
   "files": [
     "index.js"
