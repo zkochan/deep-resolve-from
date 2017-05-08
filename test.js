@@ -15,7 +15,7 @@ test('deepResolveFrom.silent()', t => {
   const resolved = deepResolveFrom.silent(process.cwd(), ['mos', 'chalk', './package.json'])
   t.equal(require(resolved).name, 'chalk')
 
-  t.equal(deepResolveFrom.silent(process.cwd(), ['nonexistent']), null)
+  t.equal(deepResolveFrom.silent(process.cwd(), ['nonexistent', './package.json']), null)
 
   t.end()
 })
